@@ -13,7 +13,7 @@ Para mayor dificultad crear la carpeta y mover los ficheros en la misma orden de
 
 # ejercicio 4
 
-Crear un nuevo usuario llamado 'Pepe'.
+Crear un nuevo usuario llamado 'Pepe'. (busca en internet como hacerlo)
 
 # ejercicio 5
 
@@ -29,4 +29,9 @@ Cambiar el dueño de el fichero 'Pepe.txt' al usuario Pepe y cambiar los permiso
 
 # ejercicio 7
 
-Cambia de contraseña al usuario Pepe
+Cambia de contraseña al usuario Pepe. (busca en internet como hacerlo)
+
+# ejercicio 8
+
+Mueve los ficheros de usuario a carpetas con su mismo nombre dentro de usuarios
+/ciquitraque/usuarios/pepe/pepe.txt
