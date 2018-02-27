@@ -18,3 +18,11 @@ Cambia el hostame a lo que tu quieras, deberas reiniciar el PC/VM para que surga
 
 para el servivio de audio con el systemctl, comprueba que efectivamente se ha parado, y vuelve a inciarlo, cuidado con deshabilitarlo!! (no pongas disable).
 Usa el manual (man systemctl)
+
+# ejercicio 5
+
+Añade un disco en virtualbox un disco y montalo en /mnt/disco2, intenta aceder a el y modificar su contenido (crear archivos)
+
+# ejercicio 6
+
+Confugura el archivo fstab para que auto monte el disco al inicio
