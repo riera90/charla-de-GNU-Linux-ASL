@@ -7,7 +7,7 @@ Si los has echo bien cuando inicies sesion como pepe deberias de iniciar en su c
 # ejerccio 2
 
 Agrega pepe como sudoer para todos los comandos como todos los usuarios
-Lee bien el archivo de configuración, hay ejemplos.
+Lee bien el archivo de configuracón, hay ejemplos.
 ¿Puedes acceder al comando sudo?
 
 # ejerccio 3
